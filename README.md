@@ -1,5 +1,6 @@
 [English](doc/en/README.md)
 该项目实现了一种2d水面实时渲染方法。
+![demo](doc/figures/demo.webp)
 # 先决条件
 ## 使用依赖
 1. SDL

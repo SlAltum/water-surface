@@ -1,4 +1,5 @@
 This repo implement a kind of method to simulate real-time water surface in 2d applications.
+![demo](../figures/demo.webp)
 # Prerequisite
 ## Usage
 1. SDL

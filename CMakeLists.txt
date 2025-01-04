@@ -18,7 +18,7 @@ find_package(OpenCLHeadersCpp REQUIRED)
 
 include_directories("include")
 include_directories(3rdparty/imgui)
-include_directories(3rdparty/stb)
+#include_directories(3rdparty/stb)
 include_directories(3rdparty/delaunator-cpp)
 file(GLOB SOURCES src/*.cpp)
 file(GLOB IMGUI_SOURCES 3rdparty/imgui/*.cpp)
